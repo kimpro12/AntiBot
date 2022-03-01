@@ -11,4 +11,6 @@ How to use:
 - Copy Paste this command 
 - sudo echo "pls run this scipt on root" && sudo apt install ipset && sudo apt install curl && sudo curl -o blacklist.txt https://raw.githubusercontent.com/kimpro12/MCBOT/main/blacklist.txt && sudo ipset restore -! < blacklist.txt && sudo rm blacklist.txt && sudo iptables -I INPUT -m set --match-set blacklist src -j DROP && sudo echo "done.Thank for using this scipt this scipt made by fip"
 
+- Or download run.sh and use command sudo sh run.sh
+
 Enjoy !!
