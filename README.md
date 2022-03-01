@@ -1,5 +1,5 @@
 Feature: 
-- Add ipset and iptables to antibot
+- Add ipset to antibot
 - Before using this scipt the cps of spambot always higher like this:
 - ![image](https://user-images.githubusercontent.com/95573884/156032045-208207e8-5203-43bc-a607-1449579728b7.png)
 - After using script cps is always 100-200 cps even you have the spambot 100k cps:
