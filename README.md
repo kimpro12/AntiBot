@@ -13,4 +13,10 @@ How to use:
 
 - Or download run.sh and use command sudo sh run.sh
 
+- If you see some error logs like this:
+
+![image](https://user-images.githubusercontent.com/95573884/159100121-498b348e-186a-485a-885e-e140c93812a9.png)
+
+
+
 Enjoy !!
